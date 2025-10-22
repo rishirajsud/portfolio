@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-MONICA is a carefully crafted and modern HTML website template designed for freelancers, social 
+Rishi is a carefully crafted and modern HTML website template designed for freelancers, social 
 media managers, and marketing consultants who help businesses and companies improve their online 
 presence and establish long-lasting relationships with their communities. It is an excellent tool 
 for telling people about your skills and credentials, services, and other offerings, giving them 
@@ -70,7 +70,7 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 SUPPORT:
     
-Since MONICA is distributed for free, support is not offered. MONICA is coded according 
+Since Rishi is distributed for free, support is not offered. Rishi is coded according 
 to current web standards and we did our best to make the template easy to use and modify.
 If you have minimum web development experience, you can easily modify the template. 
 However, If you're still new to HTML and CSS, I suggest that you visit the 
